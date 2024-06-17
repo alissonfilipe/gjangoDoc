@@ -26,3 +26,7 @@ python manage.py shell -> API gratuíta que Django oferece
 
 # criação do admin 
 - python manage.py createsuperuser -> só seguir com nome email etc
+
+# desenvolvimento
+
+- parei na primeira parte onde crio com HttpResposnse views e urls com parâmetros
